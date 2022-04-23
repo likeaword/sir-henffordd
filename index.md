@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+#Sir Hennffordd
+##Exploring the Welsh roots of Herefordshire place names
+Across Herefordshire we can see hints of our past in all manner of our present. The shape of our settlements, the patterns of our fields and woodlands, the shape and scale of our historic buildings.
+I have a particular fascination with the names we use for towns, villages, woodlands and other natural features. These often have deep roots that can be challenging to unearth stretching into Old English, Norman French, Latin and Welsh. Like archeologists or palaeontologists the historical record for [toponymists](https://en.wikipedia.org/wiki/Toponymy) is patchy and opaque.
+I am not a toponymist but I do like maps and I thought it would be fun to see if I could create a "Welsh" map of Herefordshire. It turns out that I can. And it is fun.
 
-You can use the [editor on GitHub](https://github.com/likeaword/sir-henffordd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/likeaword/sir-henffordd/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A map of Herefordshire showing names with Welsh rootsI drew very heavily on the book Herefordshire Place-names by Bruce Copleston-Crow and I decided to include places that, based on that book, had a definite or possible Welsh root and places that have a currently used Welsh alternate (in the very rare cases where it is both and they are different I went with history).
+I've applied a bit of poetic licence in the spelling. Bruce shows the spelling based on the historic source he was referring too. Spelling conventions have often evolved since that time. And often these sources aren't that reliable for spelling (imagine a Norman French clerk trying to handle a Welsh minor lord naming their estates). So in particular I've used Llan for church or religious enclosure and I've used Llyn for a marshy or wet area. I don't really know what to do about Brez (Breinton). Its meaning seems to be obscure and modern Welsh doesn't use z. I've left it for now.
+This is just a bit of fun but, as a Herefordian born and bred I find it pretty fascinating. I'm sure there are plenty of missing names or errors I've made. Any suggestions for improvements (with a source please) would be welcomed.
+To round off here is the same view but also showing the current (English) names in brackets.
