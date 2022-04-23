@@ -1,0 +1,10 @@
+#Sir Henffordd
+##Mapping the Welsh roots of Herefordshire place names
+Exploring the Welsh roots of Herefordshire place names
+Across Herefordshire we can see hints of our past in all manner of our present. The shape of our settlements, the patterns of our fields and woodlands, the shape and scale of our historic buildings.
+I have a particular fascination with the names we use for towns, villages, woodlands and other natural features. These often have deep roots that can be challenging to unearth stretching into Old English, Norman French, Latin and Welsh. Like archeologists or palaeontologists the historical record for toponymists is patchy and opaque.
+I am not a toponymist but I do like maps and I thought it would be fun to see if I could create a "Welsh" map of Herefordshire. It turns out that I can. And it is fun.
+A map of Herefordshire showing names with Welsh rootsI drew very heavily on the book Herefordshire Place-names by Bruce Copleston-Crow and I decided to include places that, based on that book, had a definite or possible Welsh root and places that have a currently used Welsh alternate (in the very rare cases where it is both and they are different I went with history).
+I've applied a bit of poetic licence in the spelling. Bruce shows the spelling based on the historic source he was referring too. Spelling conventions have often evolved since that time. And often these sources aren't that reliable for spelling (imagine a Norman French clerk trying to handle a Welsh minor lord naming their estates). So in particular I've used Llan for church or religious enclosure and I've used Llyn for a marshy or wet area. I don't really know what to do about Brez (Breinton). Its meaning seems to be obscure and modern Welsh doesn't use z. I've left it for now.
+This is just a bit of fun but, as a Herefordian born and bred I find it pretty fascinating. I'm sure there are plenty of missing names or errors I've made. Any suggestions for improvements (with a source please) would be welcomed.
+To round off here is the same view but also showing the current (English) names in brackets.
